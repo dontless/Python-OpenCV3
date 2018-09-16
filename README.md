@@ -2,6 +2,6 @@
 Python OpenCV3
 
 OpenCV: Open Source Computer Vision Library
-Resources
-Homepage: https://opencv.org
-Docs: https://docs.opencv.org/master/
+Resources:- go through these link for the more details 
+\nHomepage: https://opencv.org
+\nDocs: https://docs.opencv.org/master/
